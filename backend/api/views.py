@@ -2,7 +2,7 @@
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .models import NewspaperTitle
-from .utils import verify_title  # Assuming the verify_title logic is in utils.py
+from .utils import verify_title  
 
 @api_view(['POST'])
 def verify_title_view(request):
