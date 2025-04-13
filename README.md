@@ -33,7 +33,7 @@ An intelligent web application that verifies the uniqueness of press titles usin
 - **pandas**: Dataset handling
 - **numpy**: Numerical computations
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - Node.js 14.x or higher
